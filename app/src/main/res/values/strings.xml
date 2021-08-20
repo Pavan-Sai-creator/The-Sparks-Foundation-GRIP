@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Social Media Integration</string>
+    <string name="sign_in_with_google">Sign in With Google</string>
+    <string name="example">Example</string>
+    <string name="number">Phone Number</string>
+    <string name="name">Name</string>
+    <string name="email_address">Email address</string>
+    <string name="sign_out">Sign out</string>
+    <string name="facebook_app_id">835028620742124</string>
+    <string name="fb_login_protocol_scheme">fb835028620742124</string>
+    <string name="main_screen_title">GRADUATE           ROTATIONAL INTERNSHIP PROGRAM</string>
+
+</resources>
